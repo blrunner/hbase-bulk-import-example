@@ -1,0 +1,17 @@
+.project
+.settings
+.classpath
+.metadata
+target
+
+# IntelliJ IDEA files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Vim files
+*.swp
+
+# Patch files
+*.patch
